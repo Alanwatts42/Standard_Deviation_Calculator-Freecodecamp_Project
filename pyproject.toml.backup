@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "fcc-mean-var-std"
+name = "fcc-mean-var-st"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "My submission "
+authors = ["Evan Sherwood <evan.r.sherwood@protonmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"

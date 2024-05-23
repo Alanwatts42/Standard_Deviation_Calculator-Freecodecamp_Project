@@ -1,3 +1,10 @@
 # Mean-Variance-Standard Deviation Calculator
 
-This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+## Author: Evan Sherwood
+Github: https://github.com/Alanwatts42
+
+Mean-Variance-Standard Deviation Calculator project for FreeCodeCamp Python Course: *Data Analysis with Python*. 
+
+Project Instructions: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+
+
