@@ -5,7 +5,7 @@ description = "My submission "
 authors = ["Evan Sherwood <evan.r.sherwood@protonmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ""
 numpy = "^1.18"
 
 [tool.poetry.dev-dependencies]
